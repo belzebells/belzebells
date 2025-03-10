@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<!--
-**belzebells/belzebells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Olá, eu sou a Bells! 🦆
 
-### Desenvolvedora Java Full Stack Jr. | Em transição de Redação para Tecnologia
+### Desenvolvedora Java Full Stack Jr. | Em transição de Redação para Tecnologia ✨
 
 ---
 
