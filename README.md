@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Bells! 🦆
 
-### Desenvolvedora Java Full Stack Jr. | Em transição de Redação para Tecnologia ✨
+### Desenvolvedora Java Full Stack Jr., em transição de Redação para tecnologia ✨
 
 ---
 
@@ -50,7 +50,7 @@
 
 # Hi, I'm Izabela Bonzanini! 👋
 
-### Java Full Stack Developer Jr. | Transitioning from Copywriting to Tech
+### Java Full Stack Developer Jr, transitioning from Copywriting to Tech.
 
 ---
 
