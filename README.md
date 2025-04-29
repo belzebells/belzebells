@@ -1,5 +1,5 @@
 ## Olá, eu sou a Bells! 🦆
-### Desenvolvedora Java Full Stack Jr., em transição de carreira de Redação para tecnologia. ✨
+### Desenvolvedora Full-Stack, em transição de carreira de Redação para tecnologia. ✨
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Descomplica (conclusão prevista para 07/2027).
 - 💻 Formada em **Relações Públicas** pela FAPCOM, com mais de 10 anos de experiência em redação e estratégia de conteúdo.
 - 🚀 Concluí o bootcamp de **Desenvolvedor Java Full Stack** na Generation Brasil, onde desenvolvi projetos utilizando Java, Spring Boot, React.js, MySQL e APIs RESTful.
@@ -22,7 +22,7 @@
 </div>
 
 ## Hi, I'm Bells! 🦆
-### Java Full Stack Developer Jr | Transitioning from Copywriting to Tech.✨
+### Full-Stack Developer | Transitioning from Copywriting to Tech.✨
 - 🎓 Currently pursuing a degree in **Systems Analysis and Development** at Descomplica (expected graduation: 07/2027).
 - 💻 Graduated in **Public Relations** from FAPCOM, with over 10 years of experience in copywriting and content strategy.
 - 🚀 Completed the **Full Stack Java Developer** bootcamp at Generation Brazil, where I developed projects using Java, Spring Boot, React.js, MySQL, and RESTful APIs - my projects are listed below!
